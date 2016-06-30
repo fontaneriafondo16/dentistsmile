@@ -23,7 +23,7 @@ contact:
 
 # Opening hours
 lunes - viernes: 10:00 – 20:00
-saturday: 10:00 – 17:00
+saturday: 10:00– 17:00
 
 # Testimonials
 testimonials:
@@ -40,8 +40,8 @@ facebook: http://facebook.com
 twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
-feed: yes
+skype:
+feed: no
 
 # Footer
 copyright: © 2015 DentistSmile - All rights reserved
