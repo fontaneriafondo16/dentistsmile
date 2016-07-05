@@ -1,6 +1,6 @@
 # Site settings
 title: Fontanería A Fondo | José Antonio Fondo Blanco
-description: "A responsive."
+description: "Fontanería A Coruña"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "fontaneriafondo16.github.io" # the name of your domain
 logo_url: svg/min/logo.svg
@@ -19,7 +19,7 @@ contact:
     phone: 981 27 77 58
     emergency: 639 88 41 65
     email: fontaneriafondo@gmail.com
-    address: Eladio Rodríguez 26 Bajo, <br> A Coruña
+    address: Eladio Rodríguez 26 Bajo<br>A Coruña
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -37,14 +37,14 @@ map:
 
 # Social settings
 facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
+twitter:
+instagram:
+youtube:
 skype:
 feed: no
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2016 CDPC - Todos los derechos reservados
 
 # Build settings
 markdown: kramdown
